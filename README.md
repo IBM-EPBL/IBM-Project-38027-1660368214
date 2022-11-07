@@ -4,7 +4,7 @@
 
 
 ## Team Members:
-### Vikram
+### Vikramjeet Singh Kotwal
 ### Harshavarthan
 ### Frederick
 ### Jasvanth
